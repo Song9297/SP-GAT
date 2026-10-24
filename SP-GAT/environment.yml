@@ -1,0 +1,8 @@
+name: spgat
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.24
+  - pip=25.2
+  - pip:
+      - -r requirements.txt

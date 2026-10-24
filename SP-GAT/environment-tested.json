@@ -1,0 +1,44 @@
+{
+  "python": "3.9.24",
+  "validation_platform": "win32",
+  "packages": {
+    "numpy": {
+      "runtime": "1.26.4",
+      "distribution_metadata": "1.26.3"
+    },
+    "pandas": {
+      "runtime": "1.4.4",
+      "distribution_metadata": "1.4.4"
+    },
+    "matplotlib": {
+      "runtime": "3.9.2",
+      "distribution_metadata": "3.9.2"
+    },
+    "scikit-learn": {
+      "runtime": "1.5.1",
+      "distribution_metadata": "1.5.1"
+    },
+    "torch": {
+      "runtime": "2.5.1+cu121",
+      "distribution_metadata": "2.5.1+cu121"
+    },
+    "torch-geometric": {
+      "runtime": "2.6.1",
+      "distribution_metadata": "2.6.1"
+    },
+    "xgboost": {
+      "runtime": "1.5.1",
+      "distribution_metadata": null
+    },
+    "scipy": {
+      "runtime": "1.13.1",
+      "distribution_metadata": "1.13.1"
+    },
+    "joblib": {
+      "runtime": "1.5.2",
+      "distribution_metadata": "1.5.2"
+    }
+  },
+  "cuda_runtime": "12.1",
+  "scope": "Existing research environment; not a clean installation test. No environment prefix is recorded."
+}

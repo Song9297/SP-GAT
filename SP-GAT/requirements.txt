@@ -1,0 +1,12 @@
+# Direct dependencies recorded from the validation environment.
+# Install the desired PyTorch CPU/CUDA 12.1 wheel first, as described in README.md.
+setuptools==80.9.0
+numpy==1.26.4
+pandas==1.4.4
+matplotlib==3.9.2
+scikit-learn==1.5.1
+scipy==1.13.1
+joblib==1.5.2
+xgboost==1.5.1
+torch==2.5.1
+torch-geometric==2.6.1

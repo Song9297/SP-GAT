@@ -1,0 +1,32 @@
+{
+  "release_date": "2026-10-24",
+  "scope": "Source-only preparation; no private-data research retraining.",
+  "python_files_compiled": 47,
+  "chinese_characters_in_python": 0,
+  "chinese_comments_removed": 183,
+  "chinese_docstrings_removed": 13,
+  "display_unit_labels_corrected": 18,
+  "tests": {
+    "returncode": 0,
+    "tests": 38,
+    "seconds": 11.268
+  },
+  "research_data_included": false,
+  "pretrained_weights_included": false,
+  "historical_results_included": false,
+  "author_machine_path_dependencies": false,
+  "original_research_scripts_modified": false,
+  "clean_installation_tested": false,
+  "full_private_data_experiments_rerun": false,
+  "tested_behaviors": [
+    "CLI plans and absent-data exits from a foreign working directory",
+    "Repository-root CLI resolution and external dataset labels",
+    "Checkpoint and provenance relocation with hash integrity",
+    "Changed checkpoints and provenance rejected",
+    "Fresh ablation orchestration and active nine-mode filtering",
+    "Synthetic SHAP, masking, graph and tabular algorithm checks",
+    "Single-seed PFI subset tables without a multi-seed plot",
+    "Loaded runtime versions recorded when distribution metadata are stale"
+  ],
+  "limits": "Synthetic tests passed in the existing research environment. No claim of complete paper-number reproduction."
+}
